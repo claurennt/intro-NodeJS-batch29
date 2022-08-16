@@ -1,0 +1,19 @@
+{
+  "name": "lecture-batch29",
+  "version": "1.0.0",
+  "description": "Lecture about node with batch 29",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
